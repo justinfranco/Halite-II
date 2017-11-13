@@ -1,0 +1,4 @@
+= Halite II
+
+This repo is a part of the Halite II competition.
+Further information can be found https://halite.io/[Here].

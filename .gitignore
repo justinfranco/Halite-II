@@ -1,0 +1,11 @@
+# Compiled #
+############
+*.exe
+
+# Logs #
+########
+*.log
+
+# Assembly Language #
+#####################
+*.hlt
